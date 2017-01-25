@@ -12,7 +12,7 @@ It does not cover every possible valid-yet-never-used URLs and email addresses i
 Changes in this fork
 --------------------
 
-* [Prevent Catastrophic Backtracking by applying atomic-grouping](https://github.com/lode/php-linkify/pull/1)
+* Prevent Catastrophic Backtracking by applying atomic-grouping. See [pull request](https://github.com/lode/php-linkify/pull/1) and [pull request to parent fork](https://github.com/misd-service-development/php-linkify/pull/21)
 
 Authors
 -------
